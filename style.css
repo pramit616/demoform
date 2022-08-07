@@ -164,6 +164,7 @@ form .buttons button , .backBtn{
     }
 }
 
+
 @media (max-width: 550px) {
     form .fields .input-field{
         width: 100%;
